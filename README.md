@@ -1,3 +1,3 @@
 # Aura 
 
-## A ChatGpt like frontend application with agents capabiliy
+## A ChatGpt like frontend application with agents capability
